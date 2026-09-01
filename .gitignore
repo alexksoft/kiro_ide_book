@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local build artifacts / intermediates (regenerable)
+_docs/
+link_status.json
+ai_link_status.json
+
+# OS / editor
+.DS_Store
+*.swp
